@@ -17,6 +17,14 @@
      ![image1](https://github.com/AntonStogov/netology_virtd34/assets/97850376/2be64a12-d919-4037-ac6c-f52483a0d2bf)
      ![image2](https://github.com/AntonStogov/netology_virtd34/assets/97850376/68c17099-48aa-4eb3-968c-e6cf6d6a7ae5)
 
-4) ![Docker](https://github.com/AntonStogov/netology_virtd34/assets/97850376/1ba45d52-36f1-4631-aaef-7371bea954ed)
+4) export VAGRANT_DEFAULT_PROVIDER=“virtualbox”
+   vagrant box add bento/ubuntu-20.04 ~Vagrant/ubuntu
+   vagrant init
+   vagrant up
+   vagrant provision
+   vagrant ssh
+   docker ps
+   ![image](https://github.com/AntonStogov/netology_virtd34/assets/97850376/61b8d03d-6970-44f3-a745-f061049843d4)
+
 
 

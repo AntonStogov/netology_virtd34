@@ -2,6 +2,7 @@
 Задача 1
 https://github.com/AntonStogov/netology_virtd34/blob/main/Screenshot%202023-11-07%20112410.png
 Создал образ с помощью paker и благодаря инструкции
+
 Задача 2
 https://github.com/AntonStogov/netology_virtd34/blob/main/Screenshot%202023-11-07%20171716.png
 создал ВМ с помощью web-интерфейса yacloud
